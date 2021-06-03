@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and grateful, acknowledgement of the town of Taunton in the county of Somerset; to be in all humility presented, to the Honorable House of Commons assembled in Parliament. Die Mercurii, 9 Febr. 1647. The humble petition and grateful acknowledgement of the inhabitants of the town of Taunton in the County of Somerset, in approbation of the late votes passed touching the King, was this day read; and it is ordered, that the thanks of this House be returned to the petitioners for their very good affections expressed to the Parliament : it is further ordered, that the said petition be printed. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86748</idno><idno type="EEBO-CITATION">99864065</idno>
+  <idno type="VID">116284</idno>
+  <idno type="EEBO-PROQUEST">2240904127</idno>
+  
+            <idno type="STC">Wing H3433</idno>
+            <idno type="STC">Thomason E427_21</idno>
+            <idno type="STC">ESTC R204597</idno>
+            <idno type="PROQUEST">99864065</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864065e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116284)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E427[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and grateful, acknowledgement of the town of Taunton in the county of Somerset; to be in all humility presented, to the Honorable House of Commons assembled in Parliament. Die Mercurii, 9 Febr. 1647. The humble petition and grateful acknowledgement of the inhabitants of the town of Taunton in the County of Somerset, in approbation of the late votes passed touching the King, was this day read; and it is ordered, that the thanks of this House be returned to the petitioners for their very good affections expressed to the Parliament : it is further ordered, that the said petition be printed. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 17. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term type="geographic_name">Somerset (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116284:1"/>
+            <p>The Humble PETITION AND Grateful, Acknowledgement Of the Town of <hi>TAƲNTON</hi> In the County of SOMERSET; To be in all humility presented, To the Honorable House of COMMONS assembled in PARLIAMENT.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii, 9. Febr. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe humble Petition and grateful Acknowledgement of the Inhabitants of the Town of <hi>Taunton</hi> in the County of <hi>Somerset,</hi> in approbation of the late <hi>Votes</hi> pas<g ref="char:EOLhyphen"/>sed touching the King, was this day read; and it is Order<g ref="char:EOLhyphen"/>ed, That the Thanks of this House be returned to the Pe<g ref="char:EOLhyphen"/>titioners for their very good Affections expressed to the Parliament: It is further Ordered, That the said Peti<g ref="char:EOLhyphen"/>tion be printed.</p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons. <hi>Ferb.</hi> 17. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_and_acknowledgement">
+            <pb facs="tcp:116284:2"/>
+            <pb n="3" facs="tcp:116284:2"/>
+            <head>The humble PETITION AND Grateful Acknowledgement OF The Town of <hi>TAƲNTON</hi> in the County of <hi>Somerset;</hi> To be in all humility presented, To the Honorable House of COMMONS assembled in Parliament.</head>
+            <p>AS we cannot but with deepest Thankfulness remember the eminent care of this High and Honorable Court, in sending opportune and timely Succor to us,
+<pb n="4" facs="tcp:116284:3"/> when we were even ready to be made a prey to all the Miseries that Humane Cruelty could devise to inflict: So (having lately seen the Votes of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, whereby they manifest their Resolutions to make no more Ad<g ref="char:EOLhyphen"/>dresses nor Applications to the King) VVe cannot but in all hu<g ref="char:EOLhyphen"/>mility Declare to this Honorable Assembly, and to all the VVorld, That we are fully satisfied in our Iudgements and Consciences, of the Necessity and Iustice of such a course; the King having utterly and finally refused, to give His As<g ref="char:EOLhyphen"/>sent to those Propositions, which (as we humbly apprehend) are ab<g ref="char:EOLhyphen"/>solutely Necessary for the Esta<g ref="char:EOLhyphen"/>blishment
+<pb n="5" facs="tcp:116284:3"/> of true Religion and Peace in this distracted and almost destroyed Kingdom; Hoping that your Honors will now go on effe<g ref="char:EOLhyphen"/>ctually and vigorously to prosecute the Settlement of Religion among us in Truth, according to the word of God (which is the dearest thing to us;) and next to that, the King<g ref="char:EOLhyphen"/>dom in Peace, according to the Rights and Immunities thereof. And we do all unanimously pro<g ref="char:EOLhyphen"/>fess, That as we have not hereto<g ref="char:EOLhyphen"/>fore been the most backward in the Kingdom, to adhere to the Parlia<g ref="char:EOLhyphen"/>ment (according to our Duties) in its lowest condition, and to oppose the Enemies of our Religion and Peace, with the extremest hazard
+<pb n="6" facs="tcp:116284:4"/> of our Lives and Fortunes; So we shall not account the small remain<g ref="char:EOLhyphen"/>der of our Estates and Blood dear, for the promoting of those blessed ends, &amp; the asserting of that Cause, which we by Solemn Vow have undertaken, and believe, no Dan<g ref="char:EOLhyphen"/>ger in the world may cause us to desert.</p>
+            <pb n="7" facs="tcp:116284:4"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii, 9. Febr. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe humble Petition and grate<g ref="char:EOLhyphen"/>ful Acknowledgement of the Inhabitants of the Town of <hi>Taunton</hi> in the County of <hi>Somerset,</hi> in approba<g ref="char:EOLhyphen"/>tion of the late Votes passed touching the King, was this day read; and it is Or<g ref="char:EOLhyphen"/>dered, That the Thanks of this House be returned to the Petitioners for their very good Affections expressed to the Parliament: It is further Ordered, That the said Petition be printed.</p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
